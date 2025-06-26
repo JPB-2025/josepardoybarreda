@@ -28,6 +28,13 @@ import nosotros1 from '../assets/nosotros1.png'
             :imagen="nosotros1"
             :accion="'https://ejemplo.com/secundaria'"
             />
+            
+            <Tarjetita
+            titulo="Nivel Secundaria"
+            descripcion="Fomentamos el pensamiento crítico y la preparación para el futuro."
+            :imagen="nosotros1"
+            :accion="'https://ejemplo.com/secundaria'"
+            />
 
 
         </div>
