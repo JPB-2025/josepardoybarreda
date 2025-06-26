@@ -23,32 +23,13 @@ import nosotros1 from '../assets/nosotros1.png'
             />
 
             <Tarjetita
-            titulo="Nivel Primaria"
-            descripcion="Conoce nuestras estrategias pedagógicas que fortalecen el desarrollo integral de los niños."
-            :imagen="primaria"
-            :accion="'https://www.google.com'"
-            />
-
-            <Tarjetita
             titulo="Nivel Secundaria"
             descripcion="Fomentamos el pensamiento crítico y la preparación para el futuro."
             :imagen="nosotros1"
             :accion="'https://ejemplo.com/secundaria'"
             />
 
-            <Tarjetita
-            titulo="Nivel Secundaria"
-            descripcion="Fomentamos el pensamiento crítico y la preparación para el futuro."
-            :imagen="primaria"
-            :accion="'https://ejemplo.com/secundaria'"
-            />
 
-            <Tarjetita
-            titulo="Nivel Secundaria"
-            descripcion="Fomentamos el pensamiento crítico y la preparación para el futuro."
-            :imagen="primaria"
-            :accion="'https://ejemplo.com/secundaria'"
-            />
         </div>
     </div>
 </template>
