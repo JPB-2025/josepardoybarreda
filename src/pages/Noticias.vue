@@ -5,7 +5,7 @@ import auditorio from '../assets/auditorio.png'
 import primaria from '../assets/primaria.png'
 import secundaria from '../assets/secundaria.png'
 import nosotros1 from '../assets/nosotros1.png'
-import tarjetaroja from '../assets/tarjeta roja.png'
+import tarjetaroja from '../assets/tarjetaroja.png'
 </script>
 
 <template>
