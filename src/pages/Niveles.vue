@@ -17,7 +17,7 @@ import secundaria from '../assets/secundaria.png'
     description="Promovemos el desarrollo integral de nuestros pequeños a través del juego, la creatividad y el afecto. Fomentamos la curiosidad, el respeto y la seguridad en un entorno cálido que les permite descubrir el mundo que los rodea."
     :image="inicial"
     :buttons="[
-      { label: 'Visitar Facebook', href: 'https://www.google.com'  },
+      { label: 'Visitar Facebook', href: 'https://www.facebook.com/centenariaieejpb2025'  },
     ]"
   />
       <Banner
@@ -25,7 +25,7 @@ import secundaria from '../assets/secundaria.png'
     description="Formamos estudiantes con sólidos valores, pensamiento crítico y amor por el aprendizaje. Acompañamos su crecimiento académico y emocional, fortaleciendo sus habilidades sociales y su autonomía con una educación dinámica y participativa."
     :image="primaria"
     :buttons="[
-      { label: 'Visitar Facebook', href: 'https://www.google.com'  },
+      { label: 'Visitar Facebook', href: 'https://www.facebook.com/JosePardoyBarredaPrimaria'  },
     ]"
   />
 
@@ -34,7 +34,7 @@ import secundaria from '../assets/secundaria.png'
     description="Guiamos a nuestros estudiantes hacia una formación académica sólida y una proyección personal responsable. Les brindamos herramientas para enfrentar los retos del futuro, desarrollar su identidad y prepararse para estudios superiores o técnicos."
     :image="secundaria"
     :buttons="[
-      { label: 'Visitar Facebook', href: 'https://www.google.com'  },
+      { label: 'Visitar Facebook', href: 'https://www.facebook.com/centenariaieejpb2025'  },
     ]"
   />
 </template>
