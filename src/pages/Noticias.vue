@@ -16,10 +16,10 @@ import nosotros1 from '../assets/nosotros1.png'
         />
         <div class="tarjetas-container">
             <Tarjetita
-            titulo="Nivel Inicial"
-            descripcion="Explora nuestras actividades para el desarrollo temprano."
+            titulo="Sacale Tarjeta Roja a la Violencia"
+            descripcion="Del 16 al 19 de junio del 2025, la comunidad educativa de la I.E.E. José Pardo y Barreda participa en la campaña SACALE TARJETA ROJA A LA VIOLENCIA - "CHINCHA TE QUIERO LIBRE DE VIOLENCIA""
             :imagen="primaria"
-            :accion="'https://ejemplo.com/inicial'"
+            :accion="'https://www.facebook.com/share/v/1Ej9qhbgSc/'"
             />
 
             <Tarjetita
