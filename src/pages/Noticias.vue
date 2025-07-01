@@ -6,6 +6,7 @@ import primaria from '../assets/primaria.png'
 import secundaria from '../assets/secundaria.png'
 import nosotros1 from '../assets/nosotros1.png'
 import tarjetaroja from '../assets/tarjetaroja.png'
+import luchadroga from '../assets/luchadroga.png'
 </script>
 
 <template>
@@ -24,10 +25,10 @@ import tarjetaroja from '../assets/tarjetaroja.png'
             />
 
             <Tarjetita
-            titulo="Nivel Secundaria"
-            descripcion="Fomentamos el pensamiento crítico y la preparación para el futuro."
-            :imagen="nosotros1"
-            :accion="'https://ejemplo.com/secundaria'"
+            titulo="Semana de Prevención"
+            descripcion="Nuestro estudiantes de la IE, participarón activamente de la marcha interna por el - Día internacional de la lucha contra el uso indebido y el tráfico ilícito de drogras - Turno mañana."
+            :imagen="luchadroga"
+            :accion="'https://www.facebook.com/share/p/19HvzT6pQk/'"
             />
             
             <Tarjetita
