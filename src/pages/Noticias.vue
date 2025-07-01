@@ -5,6 +5,7 @@ import auditorio from '../assets/auditorio.png'
 import primaria from '../assets/primaria.png'
 import secundaria from '../assets/secundaria.png'
 import nosotros1 from '../assets/nosotros1.png'
+import tarjetaroja from '../assets/tarjeta roja.png'
 </script>
 
 <template>
@@ -18,7 +19,7 @@ import nosotros1 from '../assets/nosotros1.png'
             <Tarjetita
             titulo="Sacale Tarjeta Roja a la Violencia"
             descripcion="Del 16 al 19 de junio del 2025, la comunidad educativa de la I.E.E. José Pardo y Barreda participa en la campaña SACALE TARJETA ROJA A LA VIOLENCIA - "CHINCHA TE QUIERO LIBRE DE VIOLENCIA""
-            :imagen="primaria"
+            :imagen="tarjetaroja"
             :accion="'https://www.facebook.com/share/v/1Ej9qhbgSc/'"
             />
 
