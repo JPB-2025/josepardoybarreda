@@ -6,7 +6,7 @@ import primaria from '../assets/primaria.png'
 import secundaria from '../assets/secundaria.png'
 import nosotros1 from '../assets/nosotros1.png'
 import tarjetaroja from '../assets/tarjetaroja.png'
-import luchadroga from '../assets/luchadroga.png'
+import luchadroga from '../assets/luchadroga.jpg'
 </script>
 
 <template>
