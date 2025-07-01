@@ -21,8 +21,8 @@
       <div class="footer-column">
         <h3>CONTACTO</h3>
         <p><i class="fas fa-map-marker-alt"></i> Av. Luis Gálvez Chipoco N.º 271</p>
-        <p><i class="fas fa-phone"></i> (056) 264248 - 922 485 902</p>
-        <p><i class="fas fa-envelope"></i> amagallanes@svp.edu.pe</p>
+        <p><i class="fas fa-phone"></i> 971 519 473</p>
+        <p><i class="fas fa-envelope"></i> ieejosepardoybarreda@gmail.com</p>
       </div>
 
       <!-- Mapa -->
