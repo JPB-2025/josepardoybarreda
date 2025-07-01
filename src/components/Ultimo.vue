@@ -11,7 +11,7 @@
         <img src="../assets/jpb_insignia_.png" alt="Logo JPB" class="footer-logo" />
         <p class="footer-follow">Síguenos:</p>
         <div class="footer-socials">
-          <a href="#"><i class="fab fa-facebook fa-lg"></i></a>
+          <a href="https://www.facebook.com/centenariaieejpb2025"><i class="fab fa-facebook fa-lg"></i></a>
           <a href="#"><i class="fab fa-youtube fa-lg"></i></a>
           <a href="#"><i class="fab fa-instagram fa-lg"></i></a>
         </div>
