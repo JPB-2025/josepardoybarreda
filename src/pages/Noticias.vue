@@ -7,6 +7,7 @@ import secundaria from '../assets/secundaria.png'
 import nosotros1 from '../assets/nosotros1.png'
 import tarjetaroja from '../assets/tarjetaroja.png'
 import luchadroga from '../assets/luchadroga.jpg'
+import campeones from '../assets/campeones.jpg'
 </script>
 
 <template>
@@ -32,10 +33,10 @@ import luchadroga from '../assets/luchadroga.jpg'
             />
             
             <Tarjetita
-            titulo="Nivel Secundaria"
-            descripcion="Fomentamos el pensamiento crítico y la preparación para el futuro."
-            :imagen="nosotros1"
-            :accion="'https://ejemplo.com/secundaria'"
+            titulo="Campeón de Campeones - Campeón a la Excelencia"
+            descripcion="🥇NUESTRAS FELICITACIONES🏆 De parte de la comunidad educativa, nuestra felcitaciones al equipo de desfile institucional, por el logro de haber obtenido el gardallete de Campeón de Campeones y el Confalón a la Excelencia."
+            :imagen="campeones"
+            :accion="'https://www.facebook.com/photo?fbid=1303838411743181&set=a.519138170213213'"
             />
 
 
