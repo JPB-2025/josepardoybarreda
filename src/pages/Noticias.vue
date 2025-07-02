@@ -38,6 +38,13 @@ import campeones from '../assets/campeones.jpg'
             :imagen="campeones"
             :accion="'https://www.facebook.com/photo?fbid=1303838411743181&set=a.519138170213213'"
             />
+             <Tarjetita
+            titulo="Campeón de Campeones - Campeón a la Excelencia"
+            descripcion="🥇NUESTRAS FELICITACIONES🏆 De parte de la comunidad educativa, nuestra felcitaciones al equipo de desfile institucional, por el logro de haber obtenido el gardallete de Campeón de Campeones y el Confalón a la Excelencia."
+            :imagen="campeones"
+            :accion="'https://www.facebook.com/photo?fbid=1303838411743181&set=a.519138170213213'"
+            />
+
 
 
         </div>
