@@ -8,6 +8,7 @@ import nosotros1 from '../assets/nosotros1.png'
 import tarjetaroja from '../assets/tarjetaroja.png'
 import luchadroga from '../assets/luchadroga.jpg'
 import campeones from '../assets/campeones.jpg'
+import vih from '../assets/vih.jpg'
 </script>
 
 <template>
